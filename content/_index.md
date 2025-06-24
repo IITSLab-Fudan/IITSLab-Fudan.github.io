@@ -18,6 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#ffffff'
+          background-size: contain   # 使图片完整显示
+          max-width: 100%             # 限制图片最大宽度为100%
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
