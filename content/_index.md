@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: 👋 Welcome to the group 欢迎新现象
         content: Take a look at what we're working on...
         align: center
         background:
