@@ -8,16 +8,16 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group 欢迎新现象
-        content: Take a look at what we're working on...
+      - title: 👋 欢迎访问复旦大学智能机器人与先进制造研究院<br>朱云龙课题组
+        content: 我们致力于解决精准医疗与高端显示装备中的核心技术挑战：(1)通过聚焦磁控微纳机器人与泛血管介入机器人研究，实现药物靶向递送、显微外科与微创诊疗等临床需求；(2)围绕高分辨OLED宏量喷印技术，突破蒸镀工艺瓶颈，攻克G8.5大型喷墨打印装备与系统控制关键问题，推动OLED显示制造体系国产化升级。我们将材料科学、机器人控制与系统工程深度融合，赋能医疗与制造产业迈向智能化、数字化新阶段。
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: Magnetic Helical Miniature Robot.png
             filters:
               brightness: 0.7
           position: right
-          color: '#666'
+          color: '#ffffff'
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
