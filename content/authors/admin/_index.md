@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 朱云龙
 
 # Full Name (for SEO)
 first_name: Nelson
