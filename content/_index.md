@@ -13,7 +13,6 @@ sections:
         align: center
         background:
           image:
-#            filename: Magnetic Helical Miniature Robot.png
             filename: icon.png
             filters:
               brightness: 0.7
@@ -21,12 +20,12 @@ sections:
           color: '#ffffff'
           background-size: contain   # 使图片完整显示
           max-width: 100%             # 限制图片最大宽度为100%
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 最新研究 ☕️
+        content: '一种新型带夹爪的磁控微螺旋型机器人'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: Magnetic Helical Miniature Robot.png
             filters:
               brightness: 0.7
           position: center

@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 复旦工业智能与技术系统实验室 # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://iitslab-fudan.github.io' # Website URL
 
 ############################
 ## LANGUAGE
