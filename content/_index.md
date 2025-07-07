@@ -13,7 +13,8 @@ sections:
         align: center
         background:
           image:
-            filename: Magnetic Helical Miniature Robot.png
+#            filename: Magnetic Helical Miniature Robot.png
+            filename: icon.png
             filters:
               brightness: 0.7
           position: right
@@ -81,7 +82,7 @@ sections:
         中国电子显示产业面临挑战：占全球面板60%产能，高端电子显示屏OLED制备工艺以“蒸镀工艺”为核心，但关键装备完全依赖进口。发达国家已将OLED装备列为“国家核心技术”，禁止向中国出口。喷墨打印制造技术，被产业界誉为是由“蒸镀工艺”向“喷墨打印”的技术转变的、颠覆性的显示产业技术革命，也是制作大尺寸OLED产业升级的主要方向。
         团队以G8.5重大装备的优化控制问题为抓手，攻克面向非线性、强耦合、多目标优化问题的百兆级宏量喷印协同优化控制难题，同时承担G8.5装备关键零部件的攻关与系统研制，打破国外对该核心装备的技术垄断，为建立全球第一条G8.5代OLED电子喷墨打印生产线提供关键技术支撑。
 
-design:
+    design:
       columns: '1'
       background:
         color: "#f8f9fa" # 浅灰色（可替换为其他颜色值，如 #ffffff 纯白）
